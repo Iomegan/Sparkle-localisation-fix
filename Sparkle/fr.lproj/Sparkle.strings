@@ -99,3 +99,6 @@
 
 /* Status message shown when the user checks for updates but is already current or the feed doesn't contain any updates. */
 "You’re up-to-date!" = "Votre logiciel est à jour !";
+
+/* No comment provided by engineer. */
+"An error occurred while launching the installer. Please try again later." = "Une erreur est survenue lors du démarrage de l'installer. Merci de réessayer plus tard.";
